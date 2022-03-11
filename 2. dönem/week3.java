@@ -1,0 +1,17 @@
+import java.awt.Point;
+
+public class week3 {
+
+	public static void main(String [] args) {
+		
+		
+		Point p1 = new Point();
+		p1.x= 5;
+		p1.y= -2;
+		
+		System.out.println("("+p1.x+" , "+p1.y+")");
+		
+
+	
+	}
+}
